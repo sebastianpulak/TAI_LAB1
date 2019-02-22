@@ -7,3 +7,6 @@ head{
 h1{
     background-color: aqua;
 }
+li {
+    display: inline;
+ }
