@@ -1,3 +1,22 @@
 li{
     display: inline
 }
+.nav{
+    justify-content: center;
+    
+}
+
+.row h3{
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+.s-bg{
+    background-color: black;
+    height: 100%;
+}
+
+.row a{
+    justify-content: center
+}
