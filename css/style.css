@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}  
 li{
     display: inline
 }
@@ -22,10 +25,16 @@ li{
 }
 
 .footer {
-    position: absolute;
+    position: relative;
     right: 0;
     bottom: 0;
     left: 0;
     padding: 1rem;
     text-align: center;
+}
+.scroll {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: none;
 }
